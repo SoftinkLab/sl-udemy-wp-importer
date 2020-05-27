@@ -1,6 +1,6 @@
 {
     "name": "softinklab/sl-udemy-wp-importer",
-    "description": "Import Udemy Courses to Tutor Plugin as a Course",
+    "description": "Import Udemy Courses to Tutor LMS Plugin as a Course",
     "type": "project",
     "license": "GPL",
     "authors": [
